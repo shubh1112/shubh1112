@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubham
-- 👀 I’m interested in Javascript, React, NextJs, Android
-- 🌱 I’m currently learning NextJs
+- 👀 I’m interested in Javascript, React, NodeJs
+- 🌱 I’m currently learning Webpack 5 & Snowpack
 - 📫 How to reach me - Mail to shubham.b.sharma@gmail.com
 
 <!---
